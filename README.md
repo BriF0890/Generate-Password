@@ -1,0 +1,2 @@
+# Generate-Password
+This project is a task on coding to generate and random password using javascript. With this it will show questions of the different type of characters that the person would like to add within the generate password. Also it will ask the length of the password as well. With this once the person clicks the "Generate Password" button a random password will generate for the person.
